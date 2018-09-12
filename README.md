@@ -19,7 +19,7 @@ le développement  tourne autour de 3 grandes parties
 
 |**développement**|**langages**|**technique de programmation**|
 |-----------------|------------|------------------------------|
-|inscription en ligne|php Mysql|developpemnt web MVC avec code igniter|
+|inscription en ligne|php, Mysql|developpemnt web MVC avec code igniter|
 |sio crawler le jeu|C#|programmation objet, tests unitaires|
 |sauvegarde du contexte|C#,mysql|programmation procédural procédures stockées en mysql|
 
