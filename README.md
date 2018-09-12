@@ -1,4 +1,4 @@
-**# projet sioCrawler #**
+#** projet sioCrawler **#
 
 Présentation du projet: le but est de réaliser un jeu de rôle permettant un jeu massivement multi joueur permettant,aux
 étudiants du bts sio de se divertir pendant les heures de cantine mais surtout d'améliorer leurs compétences en 
@@ -23,16 +23,16 @@ le développement  tourne autour de 3 grandes parties
 |sio crawler le jeu|C#|programmation objet, tests unitaires|
 |sauvegarde du contexte|C#,mysql|programmation procédural procédures stockées en mysql|
 
-##L'inscription en ligne.##
+## L'inscription en ligne. ##
 
 site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
 
-##sio crawler le jeu##
+## sio crawler le jeu ##
 
 le joueur possèdera les fonctionnalités suivantes.
 
 les classes développées.
 
-##Sauvegarde du contexte##
+## Sauvegarde du contexte ##
 
 La sauvegarde du contexte se fera dans la base de données.
