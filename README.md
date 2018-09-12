@@ -6,10 +6,10 @@ déveleppement.
 
 Les outils mes en oeuvre :
 
-*git.
-*Visual studio.
-*mysql.
-*apache.
+* git.
+* Visual studio.
+* mysql.
+* apache.
 
 le développement  tourne autour de 3 grandes parties
 
